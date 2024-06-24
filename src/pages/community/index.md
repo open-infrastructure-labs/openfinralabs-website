@@ -27,6 +27,9 @@ Key development activities in OpenInfra Labs include:
 
 * The Telemetry working group, in addition to defining problem statements for research around telemetry, aims to provide access to a platform for telemetry research and create Open Data sets for all to use.<br/>[**Read more about the Telemetry working group**](/telemetry/)
 
+* Taibai, an open source multi-cloud management platform, takes advantage of a microservices framework to deliver a scalable and customizable multi-cloud platform that enterprises can use to simplify multi-cloud management and improve the efficiency of cloud resource utilization.<br/>
+[**Hear more about the Taibai project**](https://youtu.be/CdryIUcs4y4)
+
 - - -
 
 ## Connect with the Community via these channels
@@ -38,4 +41,6 @@ Key development activities in OpenInfra Labs include:
 * Code Repository: [https://github.com/open-infrastructure-labs](https://github.com/open-infrastructure-labs)
 
 * Monitoring Meeting Notes: [https://etherpad.opendev.org/p/Open_Infra_Labs_Monitoring_Meeting](https://etherpad.opendev.org/p/Open_Infra_Labs_Monitoring_Meeting)
+
+* How to Contribute to OpenInfra Labs: [https://youtu.be/7WJxEph8mhk](https://youtu.be/7WJxEph8mhk)
 
